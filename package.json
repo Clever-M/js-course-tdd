@@ -16,5 +16,13 @@
     "library"
   ],
   "author": "Clever Moreira <ronniclever@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clever-M/js-course-tdd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Clever-M/js-course-tdd/issues"
+  },
+  "homepage": "https://github.com/Clever-M/js-course-tdd#readme"
 }
